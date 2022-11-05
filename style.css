@@ -1,0 +1,17 @@
+body {
+    background-color:#535353;
+    color: rgb(246, 242, 242);
+    text-align: center;
+    font-size: 2rem;
+}
+.destination {
+    color: #EC532D;
+}
+
+.present {
+    color: #5DD54A;
+}
+
+.difference {
+    color: #4AA3D5;
+}
